@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bipul Pratsp Singh</h1>
+<h1 align="center">Hi 👋, I'm Bipul Pratap Singh</h1>
 <h3 align="center">A passionate fullstck developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=Profile%20views&color=0e75b6&style=flat" alt="bipulsingh126" /> </p>
