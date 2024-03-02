@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **mernstack**
 
-- 💬 Ask me about **react nodejs expressjs**
+- 💬 Ask me about **reacjs , java script**
 
 - 📫 How to reach me **bipulpratapsingh126@gmail.com**
 
