@@ -1,36 +1,123 @@
-<h1 align="center">Hi 👋, I'm Bipul Pratap Singh</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<!-- ═══════════ HEADER ═══════════ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=Profile%20views&color=0e75b6&style=flat" alt="bipulsingh126" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Bipul%20Pratap%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20India&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipulsingh126" alt="bipulsingh126" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+passionate+MERN+Stack+Developer;Building+scalable+web+apps+with+React+%26+Node.js;Currently+learning+Next.js+%26+Node.js+deeply;Open+to+collaboration+on+backend+projects" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Clothes-Ecommerce store ](https://github.com/bipulsingh126/clothweb.git)
+<img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/bipulsingh126?label=Followers&style=flat-square&color=38bdf8" alt="followers" />
+<img src="https://img.shields.io/github/stars/bipulsingh126?label=Total%20Stars&style=flat-square&color=facc15" alt="stars" />
 
-- 🌱 I’m currently learning **Nextjs , nodejs**
+</div>
 
-- 🤝 I’m looking for help with [backend](https://github.com/bipulsingh126/backend.git)
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://fooddel-frontend-shjl.onrender.com/](https://fooddel-frontend-shjl.onrender.com/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **bipulpratapsingh126@gmail.com**
+```js
+const bipul = {
+  name: "Bipul Pratap Singh",
+  role: "MERN Stack Developer",
+  location: "India 🇮🇳",
+  currentlyWorkingOn: "Clothes E-commerce Store 🛍️",
+  currentlyLearning: ["Next.js", "Node.js (advanced)"],
+  lookingForHelpWith: "Backend architecture",
+  funFact: "I turn coffee into full-stack apps ☕ → 💻",
+};
+```
 
-- 📄 Know about my experiences [https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume](https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume)
+- 🔭 Currently working on **[Clothes E-commerce Store](https://github.com/bipulsingh126)**
+- 🌱 Currently learning **Next.js** & **Node.js**
+- 🤝 Looking for help with **backend**
+- 🚀 Live projects: **[fooddel-frontend](https://fooddel-frontend-shjl.onrender.com/)**
+- 📄 My experience: **[View Resume](https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume)**
+- 📫 Reach me at: **[bipulpratapsingh126@gmail.com](mailto:bipulpratapsingh126@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23390256/bipul-pratap-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23390256/bipul-pratap-singh" height="30" width="40" /></a>
-<a href="https://fb.com/thakur riyansh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thakur riyansh singh" height="30" width="40" /></a>
-<a href="https://instagram.com/heyyy_riyanshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyyy_riyanshh" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipulsingh126&show_icons=true&locale=en&layout=compact" alt="bipulsingh126" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipulsingh126&show_icons=true&locale=en" alt="bipulsingh126" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipulsingh126&" alt="bipulsingh126" /></p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite&theme=dark" alt="frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&theme=dark" alt="backend" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma,npm&theme=dark" alt="tools" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bipulsingh126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulsingh126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=bipulsingh126&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bipulsingh126&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsingh126&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%" />
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:bipulpratapsingh126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/YOUR-ID"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=canva&logoColor=white" alt="Resume" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
