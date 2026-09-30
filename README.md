@@ -1,7 +1,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1d4ed8,100:38bdf8&height=230&section=header&text=Bipul%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Noida%2C%20India&descSize=18&descAlignY=62" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=230&section=header&text=Bipul%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Noida%2C%20India&descSize=18&descAlignY=62" width="100%" alt="header" />
 
 <a href="https://github.com/bipulsingh126">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Working+at+Infyle+Technology+%F0%9F%92%BC;Building+the+Come+Out+dating+app+%F0%9F%92%98;Backend+%26+mobile+app+development+%F0%9F%93%B1;Learning+Next.js+%26+advanced+Node.js+%F0%9F%8C%B1" alt="Typing SVG" />
