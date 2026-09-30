@@ -1,6 +1,6 @@
 <!-- Replace every bipulsingh126 and "Your Name" before committing. -->
 
-<img width="100%" src="./assets/header.svg" alt="Bipul Singh - Full Stack and Backend Developer" />
+<img width="100%" src="./header.svg" alt="Bipul Singh - Full Stack and Backend Developer" />
 
 <div align="center">
 
@@ -25,6 +25,14 @@
 
 <br/>
 
+<div align="center">
+
+<img width="100%" src="./marquee.svg" alt="Scrolling technologies" />
+
+</div>
+
+<img width="100%" src="./divider.svg" alt="" />
+
 ## 👋 About Me
 
 I'm a **Full Stack developer with a backend-first mindset**. I design and build reliable APIs, scalable services, and clean user interfaces, and I care about performance, security, and maintainability.
@@ -34,7 +42,17 @@ I'm a **Full Stack developer with a backend-first mindset**. I design and build 
 - 🌱 Always learning: **system design, Kubernetes, and observability**
 - 🤝 Open to **collaborations, open-source contributions, and interesting problems**
 
-<br/>
+<img width="100%" src="./divider.svg" alt="" />
+
+## 💻 Developer Console
+
+<div align="center">
+
+<img width="100%" src="./terminal.svg" alt="Animated terminal" />
+
+</div>
+
+<img width="100%" src="./divider.svg" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +76,17 @@ I'm a **Full Stack developer with a backend-first mindset**. I design and build 
 
 </div>
 
-<br/>
+<img width="100%" src="./divider.svg" alt="" />
+
+## 📶 Core Focus
+
+<div align="center">
+
+<img width="100%" src="./skills.svg" alt="Animated skill bars" />
+
+</div>
+
+<img width="100%" src="./divider.svg" alt="" />
 
 ## 🧊 3D Contribution Graph
 
@@ -71,19 +99,19 @@ I'm a **Full Stack developer with a backend-first mindset**. I design and build 
 
 </div>
 
-<br/>
+<img width="100%" src="./divider.svg" alt="" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bipulsingh126&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bipulsingh126&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulsingh126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulsingh126&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages" width="49%" />
 </picture>
 
 <br/>
@@ -95,7 +123,7 @@ I'm a **Full Stack developer with a backend-first mindset**. I design and build 
 
 </div>
 
-<br/>
+<img width="100%" src="./divider.svg" alt="" />
 
 ## 🐍 Contribution Snake
 
@@ -109,7 +137,7 @@ I'm a **Full Stack developer with a backend-first mindset**. I design and build 
 
 </div>
 
-<br/>
+<img width="100%" src="./divider.svg" alt="" />
 
 ## 💬 Let's Connect
 
@@ -172,6 +200,22 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
           git push
 
+  stats-cards:
+    name: Generate stats cards
+    needs: contrib-3d
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+
   snake:
     name: Generate contribution snake
     runs-on: ubuntu-latest
@@ -194,4 +238,4 @@ jobs:
 
 </details>
 
-<img width="100%" src="./assets/footer.svg" alt="Footer wave" />
+<img width="100%" src="./footer.svg" alt="Footer wave" />
