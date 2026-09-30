@@ -1,230 +1,140 @@
+<!-- Replace every YOUR_USERNAME and "Your Name" before committing. -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Your%20Name&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20Backend%20Developer&descSize=22&descAlignY=58" alt="Header banner" />
+
 <div align="center">
 
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:38bdf8&height=220&section=header&text=Bipul%20Pratap%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descSize=18&descAlignY=60"
- width="100%"
- alt="Bipul Pratap Singh"
-/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems;Designing+clean+and+secure+REST+%26+GraphQL+APIs;Shipping+full+stack+products+end+to+end;Passionate+about+clean+code+and+cloud+architecture" alt="Typing animation" />
+</a>
 
-  <h2>Hey there! 👋 I'm Bipul</h2>
+<br/>
 
-  <p>
-    <b>Full Stack Developer</b> • Backend Engineer • API Builder
-  </p>
-
-  <p>
-    I build scalable web applications, production-ready APIs,<br/>
-    authentication systems, and backend services using modern JavaScript technologies.
-  </p>
-
-  <br/>
-
-  <a href="mailto:bipulpratapsingh126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://github.com/bipulsingh126">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume">
-    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&logo=github&color=e3b341" alt="GitHub stars" />
 
 <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://yourwebsite.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```javascript
-const bipul = {
-  name: "Bipul Pratap Singh",
-  role: "Full Stack Developer",
-  company: "Infyle Technology",
-  location: "Noida, India 🇮🇳",
+I'm a **Full Stack developer with a backend-first mindset**. I design and build reliable APIs, scalable services, and clean user interfaces, and I care about performance, security, and maintainability.
 
-  focus: [
-    "Backend Development",
-    "REST APIs",
-    "Scalable Architecture",
-    "Authentication & Authorization",
-    "Database Design"
-  ],
+- 🔭 Currently building **scalable microservices and cloud-native applications**
+- ⚙️ Focused on **API design, databases, caching, and distributed systems**
+- 🌱 Always learning: **system design, Kubernetes, and observability**
+- 🤝 Open to **collaborations, open-source contributions, and interesting problems**
 
-  currentlyBuilding: [
-    "Come Out – Dating App 💘",
-    "Hire – Mobile App 📱"
-  ],
+<br/>
 
-  currentlyLearning: [
-    "Next.js",
-    "Advanced Node.js",
-    "Backend Architecture"
-  ],
+## 🛠️ Tech Stack
 
-  goal: "Build reliable, scalable and production-ready applications."
-};
-```
+<div align="center">
 
----
+**Backend**
 
-## 🚀 What I'm Currently Working On
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,fastapi,go,java,spring&perline=9" alt="Backend technologies" />
 
-<table>
-<tr>
-<td width="50%">
+**Frontend**
 
-### 💘 Come Out
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&perline=9" alt="Frontend technologies" />
 
-Dating application backend focused on:
+**Databases & Messaging**
 
-* REST APIs
-* Authentication
-* User profiles
-* Matching & interactions
-* Real-time communication
-* Production-ready backend architecture
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,kafka,rabbitmq,graphql&perline=9" alt="Databases and messaging" />
 
-</td>
+**DevOps & Tools**
 
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,githubactions,postman&perline=9" alt="DevOps and tools" />
 
-### 📱 Hire
+</div>
 
-Mobile application backend focused on:
+<br/>
 
-* User authentication
-* Job & company APIs
-* Candidate workflows
-* Messaging
-* API integrations
-* Database-driven services
+## 🧊 3D Contribution Graph
 
-</td>
-</tr>
-</table>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" width="100%" />
+</picture>
 
-## 🧠 Tech Stack
+</div>
 
-### 💻 Languages
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" alt="Languages"/>
-</p>
+## 📊 GitHub Stats
 
-### ⚛️ Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite" alt="Frontend"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" height="170" />
+</picture>
 
-### ⚙️ Backend
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub streak" width="70%" />
+</picture>
 
-### 🗄️ Databases & Backend Services
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases"/>
-</p>
+<br/>
 
-### 🛠️ Tools & DevOps
+## 📈 Contribution Activity
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,nginx,linux,npm,postman" alt="Tools"/>
-</p>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" width="100%" />
+</picture>
 
-## 🔥 Core Skills
+</div>
 
-```text
-Backend Development     ████████████████████  90%
-REST API Development    ████████████████████  90%
-Node.js / Express       ███████████████████   85%
-MongoDB / SQL           ██████████████████    80%
-React.js                ██████████████████    80%
-Authentication / JWT    ███████████████████   85%
-Git / GitHub             ███████████████████   85%
-Deployment / Nginx       ████████████████      75%
-```
+<br/>
 
----
+## 🐍 Contribution Snake
 
-## 🏗️ What I Build
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    FULL STACK SYSTEMS                   │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🎨 Frontend                                             │
-│  React • Next.js • Redux • Tailwind                     │
-│                         │                               │
-│                         ▼                               │
-│  🔐 Authentication                                       │
-│  JWT • OAuth • Role Based Access                        │
-│                         │                               │
-│                         ▼                               │
-│  ⚙️ Backend                                              │
-│  Node.js • Express • REST APIs                          │
-│                         │                               │
-│                         ▼                               │
-│  🗄️ Data Layer                                           │
-│  MongoDB • MySQL • PostgreSQL                           │
-│                         │                               │
-│                         ▼                               │
-│  🚀 Deployment                                           │
-│  Linux • Nginx • Docker • Cloud                         │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
 
----
+</div>
 
-## 📂 Featured Projects
+<br/>
 
-### 🍔 Fooddel
+## 💬 Let's Connect
 
-**Food delivery web application**
+<div align="center">
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+I'm always happy to talk about backend architecture, APIs, and building great products.
+**Feel free to reach out or open an issue. Let's build something great together.**
 
-Features include:
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Say%20Hello-1f6feb?style=for-the-badge&logo=maildotru&logoColor=white" alt="Say hello" /></a>
 
-* User authentication
-* Food browsing
-* Cart management
-* Order workflows
-* Backend REST APIs
-* Responsive frontend
+⭐ *If you like this profile, consider giving the repo a star!* ⭐
 
-🔗 **Live:**
-https://fooddel-frontend-shjl.onrender.com/
+</div>
 
----
-
-### 🛍️ Clothes E-commerce
-
-**Full-stack clothing e-commerce platform**
-
-**Tech:** `MongoDB` `Express` `React` `Node.js`
-
-Planned / implemented areas:
-
-* Product management
-* Categories
-* Authentication
-* Shopping cart
-* Orders
-* Admin dashboard
-* REST AP
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" alt="Footer banner" />
