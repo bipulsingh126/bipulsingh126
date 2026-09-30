@@ -1,10 +1,10 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Bipul%20Pratap%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20India&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Bipul%20Pratap%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Noida%2C%20India&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+passionate+MERN+Stack+Developer;Building+scalable+web+apps+with+React+%26+Node.js;Currently+learning+Next.js+%26+Node.js+deeply;Open+to+collaboration+on+backend+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Working+at+Infyle+Technology+%F0%9F%92%BC;Building+the+Come+Out+dating+app+%F0%9F%92%98;Backend+%26+mobile+app+development+%F0%9F%93%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,19 +22,27 @@
 ```js
 const bipul = {
   name: "Bipul Pratap Singh",
-  role: "MERN Stack Developer",
-  location: "India 🇮🇳",
-  currentlyWorkingOn: "Clothes E-commerce Store 🛍️",
-  currentlyLearning: ["Next.js", "Node.js (advanced)"],
-  lookingForHelpWith: "Backend architecture",
+  role: "Full Stack Developer",
+  company: "Infyle Technology",
+  location: "Sector 63, Noida, India 🇮🇳",
+  currentProjects: [
+    "Come Out – Dating App 💘 (backend)",
+    "Hire – Mobile App 📱 (backend)",
+  ],
+  languages: ["JavaScript", "TypeScript", "Java", "Python", "..."],
+  currentlyLearning: ["Next.js", "Advanced Node.js"],
   funFact: "I turn coffee into full-stack apps ☕ → 💻",
 };
 ```
 
-- 🔭 Currently working on **[Clothes E-commerce Store](https://github.com/bipulsingh126)**
-- 🌱 Currently learning **Next.js** & **Node.js**
-- 🤝 Looking for help with **backend**
-- 🚀 Live projects: **[fooddel-frontend](https://fooddel-frontend-shjl.onrender.com/)**
+- 💼 Working at **Infyle Technology** as a **Full Stack Developer**
+- 💘 Building the backend of **Come Out** – a dating app
+- 📱 Building the backend of **Hire** – a mobile app
+- 📍 Based in **Sector 63, Noida, India**
+- 🌐 Working across **multiple languages & stacks** (MERN, mobile APIs, and more)
+- 🌱 Currently learning **Next.js** & advanced **Node.js**
+- 🔭 Side project: **[Clothes E-commerce Store](https://github.com/bipulsingh126)**
+- 🚀 Live project: **[fooddel-frontend](https://fooddel-frontend-shjl.onrender.com/)**
 - 📄 My experience: **[View Resume](https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume)**
 - 📫 Reach me at: **[bipulpratapsingh126@gmail.com](mailto:bipulpratapsingh126@gmail.com)**
 
