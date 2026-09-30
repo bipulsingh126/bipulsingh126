@@ -1,159 +1,230 @@
-<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=230&section=header&text=Bipul%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Noida%2C%20India&descSize=18&descAlignY=62" width="100%" alt="header" />
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:38bdf8&height=220&section=header&text=Bipul%20Pratap%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descSize=18&descAlignY=60"
+ width="100%"
+ alt="Bipul Pratap Singh"
+/>
 
-<a href="https://github.com/bipulsingh126">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Working+at+Infyle+Technology+%F0%9F%92%BC;Building+the+Come+Out+dating+app+%F0%9F%92%98;Backend+%26+mobile+app+development+%F0%9F%93%B1;Learning+Next.js+%26+advanced+Node.js+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+  <h2>Hey there! 👋 I'm Bipul</h2>
+
+  <p>
+    <b>Full Stack Developer</b> • Backend Engineer • API Builder
+  </p>
+
+  <p>
+    I build scalable web applications, production-ready APIs,<br/>
+    authentication systems, and backend services using modern JavaScript technologies.
+  </p>
+
+  <br/>
+
+  <a href="mailto:bipulpratapsingh126@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/bipulsingh126">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume">
+    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
-<a href="https://github.com/bipulsingh126?tab=followers"><img src="https://img.shields.io/github/followers/bipulsingh126?style=for-the-badge&logo=github&color=38bdf8" alt="followers" /></a>
-<a href="https://github.com/bipulsingh126?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="open to collab" /></a>
-
-<br/><br/>
-
-<a href="mailto:bipulpratapsingh126@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume"><img src="https://img.shields.io/badge/Resume-7c3aed?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
-<a href="https://fooddel-frontend-shjl.onrender.com/"><img src="https://img.shields.io/badge/Live_Project-f97316?style=flat-square&logo=render&logoColor=white" alt="Live project" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
-```js
+```javascript
 const bipul = {
   name: "Bipul Pratap Singh",
   role: "Full Stack Developer",
   company: "Infyle Technology",
-  location: "Sector 63, Noida, India 🇮🇳",
-  currentProjects: [
-    "Come Out – Dating App 💘 (backend)",
-    "Hire – Mobile App 📱 (backend)",
+  location: "Noida, India 🇮🇳",
+
+  focus: [
+    "Backend Development",
+    "REST APIs",
+    "Scalable Architecture",
+    "Authentication & Authorization",
+    "Database Design"
   ],
-  currentlyLearning: ["Next.js", "Advanced Node.js"],
-  lookingForHelpWith: "Backend architecture & scaling",
-  funFact: "I turn coffee into full-stack apps ☕ → 💻",
+
+  currentlyBuilding: [
+    "Come Out – Dating App 💘",
+    "Hire – Mobile App 📱"
+  ],
+
+  currentlyLearning: [
+    "Next.js",
+    "Advanced Node.js",
+    "Backend Architecture"
+  ],
+
+  goal: "Build reliable, scalable and production-ready applications."
 };
 ```
 
-<br/>
+---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Currently Working On
 
-| | |
-|---|---|
-| 💼 **Work** | Full Stack Developer at **Infyle Technology** |
-| 💘 **Come Out** | Dating app — building the backend |
-| 📱 **Hire** | Mobile app — building the backend |
-| 🛍️ **Side project** | Clothes E-commerce Store |
-| 🌱 **Learning** | Next.js · Node.js (advanced) |
-| 📫 **Reach me** | [bipulpratapsingh126@gmail.com](mailto:bipulpratapsingh126@gmail.com) |
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+### 💘 Come Out
 
-## 🛠️ Tech Stack
+Dating application backend focused on:
 
-> 👇 Click a section to expand
+* REST APIs
+* Authentication
+* User profiles
+* Matching & interactions
+* Real-time communication
+* Production-ready backend architecture
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark" alt="languages" />
+<td width="50%">
 
-</details>
+### 📱 Hire
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+Mobile application backend focused on:
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite&theme=dark" alt="frontend" />
+* User authentication
+* Job & company APIs
+* Candidate workflows
+* Messaging
+* API integrations
+* Database-driven services
 
-</details>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&theme=dark" alt="backend" />
+## 🧠 Tech Stack
 
-</details>
+### 💻 Languages
 
-<details>
-<summary><b>🧰 Tools & Deployment</b></summary>
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" alt="Languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma,npm&theme=dark" alt="tools" />
+### ⚛️ Frontend
 
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite" alt="Frontend"/>
+</p>
 
-<br/>
+### ⚙️ Backend
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend"/>
+</p>
 
-<div align="center">
+### 🗄️ Databases & Backend Services
 
-<!-- Streak card (hosted service – working) -->
-<img src="https://streak-stats.demolab.com/?user=bipulsingh126&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases"/>
+</p>
 
-<br/><br/>
+### 🛠️ Tools & DevOps
 
-<!-- Generated by .github/workflows/metrics.yml – lives in this repo, so it never breaks -->
-<img src="./metrics.svg" alt="GitHub metrics" width="100%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,nginx,linux,npm,postman" alt="Tools"/>
+</p>
 
-<br/>
+---
 
-<img src="./isocalendar.svg" alt="3D contribution calendar" width="100%" />
+## 🔥 Core Skills
 
-</div>
+```text
+Backend Development     ████████████████████  90%
+REST API Development    ████████████████████  90%
+Node.js / Express       ███████████████████   85%
+MongoDB / SQL           ██████████████████    80%
+React.js                ██████████████████    80%
+Authentication / JWT    ███████████████████   85%
+Git / GitHub             ███████████████████   85%
+Deployment / Nginx       ████████████████      75%
+```
 
-<br/>
+---
 
-## 🐍 Contribution Snake
+## 🏗️ What I Build
 
-<div align="center">
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    FULL STACK SYSTEMS                   │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  🎨 Frontend                                             │
+│  React • Next.js • Redux • Tailwind                     │
+│                         │                               │
+│                         ▼                               │
+│  🔐 Authentication                                       │
+│  JWT • OAuth • Role Based Access                        │
+│                         │                               │
+│                         ▼                               │
+│  ⚙️ Backend                                              │
+│  Node.js • Express • REST APIs                          │
+│                         │                               │
+│                         ▼                               │
+│  🗄️ Data Layer                                           │
+│  MongoDB • MySQL • PostgreSQL                           │
+│                         │                               │
+│                         ▼                               │
+│  🚀 Deployment                                           │
+│  Linux • Nginx • Docker • Cloud                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipulsingh126/bipulsingh126/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bipulsingh126/bipulsingh126/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/bipulsingh126/bipulsingh126/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
+---
 
 ## 📂 Featured Projects
 
-| Project | Description | Stack | Link |
-|:--|:--|:--|:--|
-| 🍔 **Fooddel** | Food delivery web app | React · Node · MongoDB | [Live ↗](https://fooddel-frontend-shjl.onrender.com/) |
-| 🛍️ **Clothes E-commerce** | Online clothing store *(in progress)* | MERN | [Repo ↗](https://github.com/bipulsingh126) |
-| 💘 **Come Out** | Dating app backend *(at Infyle Technology)* | Node.js · APIs | Private |
-| 📱 **Hire** | Mobile app backend *(at Infyle Technology)* | Node.js · APIs | Private |
+### 🍔 Fooddel
 
-<br/>
+**Food delivery web application**
 
-## 🤝 Let's Connect
+**Tech:** `React` `Node.js` `Express` `MongoDB`
 
-<div align="center">
+Features include:
 
-<a href="mailto:bipulpratapsingh126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/YOUR-ID"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+* User authentication
+* Food browsing
+* Cart management
+* Order workflows
+* Backend REST APIs
+* Responsive frontend
 
-<br/><br/>
+🔗 **Live:**
+https://fooddel-frontend-shjl.onrender.com/
 
-<i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=120&section=footer" width="100%" alt="footer" />
+### 🛍️ Clothes E-commerce
 
-</div>
+**Full-stack clothing e-commerce platform**
+
+**Tech:** `MongoDB` `Express` `React` `Node.js`
+
+Planned / implemented areas:
+
+* Product management
+* Categories
+* Authentication
+* Shopping cart
+* Orders
+* Admin dashboard
+* REST AP
