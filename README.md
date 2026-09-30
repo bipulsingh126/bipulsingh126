@@ -1,17 +1,24 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Bipul%20Pratap%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Noida%2C%20India&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1d4ed8,100:38bdf8&height=230&section=header&text=Bipul%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Noida%2C%20India&descSize=18&descAlignY=62" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Working+at+Infyle+Technology+%F0%9F%92%BC;Building+the+Come+Out+dating+app+%F0%9F%92%98;Backend+%26+mobile+app+development+%F0%9F%93%B1" alt="Typing SVG" />
+<a href="https://github.com/bipulsingh126">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Working+at+Infyle+Technology+%F0%9F%92%BC;Building+the+Come+Out+dating+app+%F0%9F%92%98;Backend+%26+mobile+app+development+%F0%9F%93%B1;Learning+Next.js+%26+advanced+Node.js+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/bipulsingh126?label=Followers&style=flat-square&color=38bdf8" alt="followers" />
-<img src="https://img.shields.io/github/stars/bipulsingh126?label=Total%20Stars&style=flat-square&color=facc15" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=bipulsingh126&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<a href="https://github.com/bipulsingh126?tab=followers"><img src="https://img.shields.io/github/followers/bipulsingh126?style=for-the-badge&logo=github&color=38bdf8" alt="followers" /></a>
+<a href="https://github.com/bipulsingh126?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="open to collab" /></a>
+
+<br/><br/>
+
+<a href="mailto:bipulpratapsingh126@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume"><img src="https://img.shields.io/badge/Resume-7c3aed?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+<a href="https://fooddel-frontend-shjl.onrender.com/"><img src="https://img.shields.io/badge/Live_Project-f97316?style=flat-square&logo=render&logoColor=white" alt="Live project" /></a>
 
 </div>
 
@@ -29,46 +36,62 @@ const bipul = {
     "Come Out – Dating App 💘 (backend)",
     "Hire – Mobile App 📱 (backend)",
   ],
-  languages: ["JavaScript", "TypeScript", "Java", "Python", "..."],
   currentlyLearning: ["Next.js", "Advanced Node.js"],
+  lookingForHelpWith: "Backend architecture & scaling",
   funFact: "I turn coffee into full-stack apps ☕ → 💻",
 };
 ```
 
-- 💼 Working at **Infyle Technology** as a **Full Stack Developer**
-- 💘 Building the backend of **Come Out** – a dating app
-- 📱 Building the backend of **Hire** – a mobile app
-- 📍 Based in **Sector 63, Noida, India**
-- 🌐 Working across **multiple languages & stacks** (MERN, mobile APIs, and more)
-- 🌱 Currently learning **Next.js** & advanced **Node.js**
-- 🔭 Side project: **[Clothes E-commerce Store](https://github.com/bipulsingh126)**
-- 🚀 Live project: **[fooddel-frontend](https://fooddel-frontend-shjl.onrender.com/)**
-- 📄 My experience: **[View Resume](https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume)**
-- 📫 Reach me at: **[bipulpratapsingh126@gmail.com](mailto:bipulpratapsingh126@gmail.com)**
+<br/>
+
+## 🚀 What I'm Up To
+
+| | |
+|---|---|
+| 💼 **Work** | Full Stack Developer at **Infyle Technology** |
+| 💘 **Come Out** | Dating app — building the backend |
+| 📱 **Hire** | Mobile app — building the backend |
+| 🛍️ **Side project** | Clothes E-commerce Store |
+| 🌱 **Learning** | Next.js · Node.js (advanced) |
+| 📫 **Reach me** | [bipulpratapsingh126@gmail.com](mailto:bipulpratapsingh126@gmail.com) |
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+> 👇 Click a section to expand
 
-**Languages**
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark" alt="languages" />
 
-**Frontend**
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite&theme=dark" alt="frontend" />
 
-**Backend & Databases**
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&theme=dark" alt="backend" />
 
-**Tools & Deployment**
+</details>
+
+<details>
+<summary><b>🧰 Tools & Deployment</b></summary>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma,npm&theme=dark" alt="tools" />
 
-</div>
+</details>
 
 <br/>
 
@@ -76,38 +99,48 @@ const bipul = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bipulsingh126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulsingh126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="top languages" />
-
-<br/>
-
+<!-- Streak card (hosted service – working) -->
 <img src="https://streak-stats.demolab.com/?user=bipulsingh126&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
+<br/><br/>
+
+<!-- Generated by .github/workflows/metrics.yml – lives in this repo, so it never breaks -->
+<img src="./metrics.svg" alt="GitHub metrics" width="100%" />
+
+<br/>
+
+<img src="./isocalendar.svg" alt="3D contribution calendar" width="100%" />
+
 </div>
 
 <br/>
 
-## 🏆 Achievements
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bipulsingh126&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipulsingh126/bipulsingh126/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bipulsingh126/bipulsingh126/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/bipulsingh126/bipulsingh126/output/github-snake.svg" />
+</picture>
 
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
+## 📂 Featured Projects
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsingh126&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%" />
-
-</div>
+| Project | Description | Stack | Link |
+|:--|:--|:--|:--|
+| 🍔 **Fooddel** | Food delivery web app | React · Node · MongoDB | [Live ↗](https://fooddel-frontend-shjl.onrender.com/) |
+| 🛍️ **Clothes E-commerce** | Online clothing store *(in progress)* | MERN | [Repo ↗](https://github.com/bipulsingh126) |
+| 💘 **Come Out** | Dating app backend *(at Infyle Technology)* | Node.js · APIs | Private |
+| 📱 **Hire** | Mobile app backend *(at Infyle Technology)* | Node.js · APIs | Private |
 
 <br/>
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -116,16 +149,11 @@ const bipul = {
 <a href="https://stackoverflow.com/users/YOUR-ID"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://bipulpratapsingh.my.canva.site/original-size-original-size-original-size-black-and-white-simple-business-school-graduate-corporate-resume"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=canva&logoColor=white" alt="Resume" /></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
