@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/bipulsingh126">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems;Designing+clean+and+secure+REST+%26+GraphQL+APIs;Shipping+full+stack+products+end+to+end;Passionate+about+clean+code+and+cloud+architecture" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=Building+scalable+backend+systems;Designing+clean+and+secure+REST+%26+GraphQL+APIs;Shipping+full+stack+products+end+to+end;Passionate+about+clean+code+and+cloud+architecture" alt="Typing animation" />
 </a>
 
 <br/>
@@ -91,19 +91,6 @@ I'm a **Full Stack developer with a backend-first mindset**. I design and build 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bipulsingh126&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=bipulsingh126&theme=default&hide_border=true" alt="GitHub streak" width="70%" />
-</picture>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bipulsingh126&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipulsingh126&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" width="100%" />
 </picture>
 
 </div>
